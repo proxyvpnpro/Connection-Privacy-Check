@@ -1,0 +1,7 @@
+{
+  "app_name": "Проверка приватности соединения",
+  "start_scan": "Начать проверку",
+  "protected": "Защищено",
+  "partially_protected": "Частично защищено",
+  "vpn_recommended": "Рекомендуется VPN"
+}

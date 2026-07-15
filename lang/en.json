@@ -1,0 +1,7 @@
+{
+  "app_name": "Connection Privacy Check",
+  "start_scan": "Start privacy scan",
+  "protected": "Protected",
+  "partially_protected": "Partially protected",
+  "vpn_recommended": "VPN recommended"
+}
